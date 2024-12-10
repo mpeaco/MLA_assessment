@@ -1,0 +1,12 @@
+,Model,Accuracy
+0,Stacking Ensemble accuracy,0.9265932599265932
+1,LGBMClassifier_hp_tuned,0.9185852519185852
+2,Voting Ensemble accuracy,0.9172505839172506
+3,CatBoostClassifier_hp_tuned,0.9152485819152486
+4,CatBoostClassifier,0.9112445779112446
+5,LGBMClassifier,0.9062395729062396
+6,XGBClassifier,0.8962295628962296
+7,XGBClassifier_hp_tuned,0.8892225558892226
+8,RandomForestClassifier,0.8732065398732065
+9,DecisionTreeClassifier,0.6436436436436437
+10,GaussianNB,0.5195195195195195
